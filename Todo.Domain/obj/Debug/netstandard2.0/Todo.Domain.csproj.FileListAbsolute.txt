@@ -1,0 +1,8 @@
+G:\Projetos\estudo-todo-api-net-core-3\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.deps.json
+G:\Projetos\estudo-todo-api-net-core-3\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.dll
+G:\Projetos\estudo-todo-api-net-core-3\Todo.Domain\bin\Debug\netstandard2.0\Todo.Domain.pdb
+G:\Projetos\estudo-todo-api-net-core-3\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.csprojAssemblyReference.cache
+G:\Projetos\estudo-todo-api-net-core-3\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfoInputs.cache
+G:\Projetos\estudo-todo-api-net-core-3\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.AssemblyInfo.cs
+G:\Projetos\estudo-todo-api-net-core-3\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.dll
+G:\Projetos\estudo-todo-api-net-core-3\Todo.Domain\obj\Debug\netstandard2.0\Todo.Domain.pdb
